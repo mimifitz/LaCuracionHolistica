@@ -303,3 +303,73 @@ position: -webkit-sticky;
  font-size: 35px;
  color: white !important;
 }
+
+/* CONTACT PAGE */
+.contact{
+    background-image: url("C.WEB FOTOS/hot-stone-massage-diploma-course-p176-427_image.jpg");
+    background-color: rgb(164, 212, 109);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100;
+    position: relative;
+    background-size: cover;
+}
+.cardc{
+    box-shadow: 2px 2px 2px 2px;
+    margin: auto;
+    float: none;
+    margin-top: 180px;
+    width: 40%;
+    height: 570px;
+    text-align: center;
+    border-radius: 90px 10px 90px 10px;
+    margin-bottom: 180px;
+    color: rgb(61, 34, 34);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color: ivory;
+}
+
+
+.cardc h1{
+  padding: 20px 0 0px 0 ;
+  font-size: 35px;
+
+}
+.cardc h2{
+  padding:20px 0 20px 0 ;
+}
+
+.cardc hr{
+  height: 2px;
+  border-width: 0;
+  background-color: rgb(164, 212, 109);
+}
+.cardc a{
+  text-decoration: none;
+  color:rgb(164, 212, 109);
+  font-size: 20px;
+  padding: 10px;
+}
+.fa{
+  color:rgb(164, 212, 109);
+}
+
+.cardc a:visited {
+    background-color: rgb(241, 195, 163);
+     color:rgb(164, 212, 109);;
+
+  }
+   .cardc a:hover{
+      background-color:rgb(61, 34, 34);
+      text-decoration: none;
+      color:rgb(164, 212, 109);
+  }
+
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
