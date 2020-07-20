@@ -13,7 +13,6 @@ body{
     background-image:url("../WEB-FOTOS/aceite-neutro-para-masajes-por-1-lt-D_NQ_NP_15067-MLA20094761956_052014-F.jpg");
     background-size: cover;
     background-position: center;
-    /* background-repeat: no-repeat, repeat; */
     position: -webkit-sticky;
     position:sticky;
     top: 0;
@@ -22,8 +21,6 @@ body{
     text-transform: capitalize;
     width: 100%;
     height:150px;
-    /* margin-bottom: 50px; */
-    /* text-align: justify; */
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: bold;
@@ -80,8 +77,6 @@ margin: 10px 0 8px 5px;
   color:  rgb(61, 34, 34);
 }
 .product{
-   /* background-image: url("C.WEB FOTOS/DSC05249.jpg"); */
-   /* background-color: rgb(184, 211, 153); */
     background:whitesmoke;
     background-repeat: no-repeat;
     background-position: center;
@@ -96,8 +91,6 @@ margin: 10px 0 8px 5px;
    display: flex;
    flex-wrap: wrap;
    justify-content: space-between;
-   /* align-items: center; */
-   /* background:whitesmoke; */
    margin-bottom: 100px;
 }
 }
@@ -107,7 +100,7 @@ margin: 10px 0 8px 5px;
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 300px;
 }
 .columnZ {
   float: right;
@@ -142,8 +135,6 @@ margin: 10px 0 8px 5px;
 }
 .item2{
     flex:0 1 calc(49% - 1em);
-     /* box-sizing: border-box;
-    margin: 1rem .25em; */
     background:whitesmoke;
     width: 410px;
 }
@@ -197,10 +188,7 @@ background:linear-gradient(to top,rgb(164, 212, 109), rgb(61, 34, 34) 15% ) ;
   float: left;
   width: 32.97%;
   padding: 10px 10px 55px 150px;
-   /* Should be removed. Only for demonstration */
-   /* background-color: teal;
-   background-color: rgb(164, 212, 109); */
-   color: white;
+  color: white;
 }
    .row{
      background-color: rgb(164, 212, 109);
@@ -236,7 +224,6 @@ position: -webkit-sticky;
   margin: 10px 0 3px 10px;
   color:whitesmoke;
 }
-
 
 /* Clear floats after the columns */
 .row:after {
@@ -313,7 +300,6 @@ box-shadow: rgb(61, 34, 34);
   color:rgb(61, 34, 34);
   text-align: center;
   margin-right: 40px ;
-
 }
 
 .section:after {
