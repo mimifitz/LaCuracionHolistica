@@ -36,21 +36,19 @@ body{
     color:rgb(61, 34, 34);
  }
 
-
- .header a:visited {
-    background-color: rgb(241, 195, 163);
-    /* color: white; */
-
-  }
   .header a:hover{
       background-color:rgb(61, 34, 34);
       text-decoration: none;
       border-radius:25px 25px 25px 25px;
       color: white;
   }
-  .header a:active{
-      background-color: white;
-      color: white;
+  /* .header a:active{
+      color: white !important;
+  } */
+  .current{
+    color: white;
+    background-color:rgb(108, 160, 4);
+    border-radius:25px 25px 25px 25px;
   }
 
 .header > img{
