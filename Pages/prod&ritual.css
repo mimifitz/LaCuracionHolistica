@@ -91,7 +91,7 @@ margin: 10px 0 8px 5px;
    display: flex;
    flex-wrap: wrap;
    justify-content: space-between;
-   margin-bottom: 100px;
+   margin-bottom: 120px;
 }
 }
 
@@ -192,7 +192,7 @@ background:linear-gradient(to top,rgb(164, 212, 109), rgb(61, 34, 34) 15% ) ;
   float: left;
   width: 32.97%;
   padding: 10px 10px 55px 150px;
-  color: white;
+   color: white;
 }
    .row{
      background-color: rgb(164, 212, 109);
@@ -228,6 +228,7 @@ position: -webkit-sticky;
   margin: 10px 0 3px 10px;
   color:whitesmoke;
 }
+
 
 /* Clear floats after the columns */
 .row:after {
