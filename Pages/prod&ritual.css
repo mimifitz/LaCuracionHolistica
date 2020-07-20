@@ -214,11 +214,10 @@ position: -webkit-sticky;
   color:rgb(61, 34, 34) ;
   font-size:20px;
 }
-.column a:active{
-  color:rgb(61, 34, 34)
-}
+
   .column a:hover{
       background-color:rgb(61, 34, 34);
+     border-radius:25px 25px 25px 25px;
       text-decoration: none;
       color: white;
 }
