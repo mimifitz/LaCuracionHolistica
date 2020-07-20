@@ -10,7 +10,7 @@ body{
 
 .header{
     background: linear-gradient(100deg, white, rgb(61, 34, 34), rgb(182, 241, 114));
-    background-image:url("C.WEB FOTOS/aceite-neutro-para-masajes-por-1-lt-D_NQ_NP_15067-MLA20094761956_052014-F.jpg");
+    background-image:url("../WEB-FOTOS/aceite-neutro-para-masajes-por-1-lt-D_NQ_NP_15067-MLA20094761956_052014-F.jpg");
     background-size: cover;
     background-position: center;
     /* background-repeat: no-repeat, repeat; */
@@ -204,7 +204,7 @@ background:linear-gradient(to top,rgb(164, 212, 109), rgb(61, 34, 34) 15% ) ;
 }
    .row{
      background-color: rgb(164, 212, 109);
-  background-image: url("IMAGES/la-vuelta-al-mundo-en-9-spas-de-lujo-16.jpg");
+  background-image: url("../WEB-FOTOS/la-vuelta-al-mundo-en-9-spas-de-lujo-16.jpg");
   background-size: cover;
   background-position: right;
   width: 100%;
@@ -247,7 +247,7 @@ position: -webkit-sticky;
 .fa-instagram{
  background-color:rgb(61, 34, 34);
   border-radius: 45px 45px 45px 45px;
-  margin-top: 8px;
+  margin-top: 10px;
   margin-right: 15px;
   padding:8px 10px 8px 10px;
   font-size: 35px;
