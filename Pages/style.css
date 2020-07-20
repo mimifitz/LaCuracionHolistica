@@ -51,10 +51,20 @@ body{
     border-radius:25px 25px 25px 25px;
   }
 
-.header > img{
+  /* .header > img{
 vertical-align: middle;
 width: 60px;
 margin: 10px 0 8px 5px;
+} */
+
+.logo img{
+vertical-align: middle;
+width: 60px;
+margin: 10px 0 8px 5px;
+position:absolute;
+left:0;
+top:0;
+/* LAST THREE LINES PUT THE LOGO ON TOP LEFT */
 }
 .myVideo{
     min-width: 100%;
